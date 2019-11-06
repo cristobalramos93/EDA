@@ -1,0 +1,29 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\capitulos repetidos final\capitulos repetidos final\hashmap_eda.h(222): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\capitulos repetidos final\capitulos repetidos final\hashmap_eda.h(220): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<int,int,std::hash<int>,std::equal_to<Clave>>::amplia(void)'
+          with
+          [
+              Clave=int
+          ]
+  c:\users\crist\source\repos\capitulos repetidos final\capitulos repetidos final\hashmap_eda.h(137): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<int,int,std::hash<int>,std::equal_to<Clave>>::amplia(void)' que se está compilando
+          with
+          [
+              Clave=int
+          ]
+  c:\users\crist\source\repos\capitulos repetidos final\capitulos repetidos final\source.cpp(6): note: vea la referencia a la creación de instancias de plantilla clase de 'unordered_map<int,int,std::hash<int>,std::equal_to<Clave>>' que se está compilando
+          with
+          [
+              Clave=int
+          ]
+c:\users\crist\source\repos\capitulos repetidos final\capitulos repetidos final\hashmap_eda.h(180): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\capitulos repetidos final\capitulos repetidos final\hashmap_eda.h(179): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<int,int,std::hash<int>,std::equal_to<Clave>>::libera(void)'
+          with
+          [
+              Clave=int
+          ]
+  c:\users\crist\source\repos\capitulos repetidos final\capitulos repetidos final\hashmap_eda.h(86): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<int,int,std::hash<int>,std::equal_to<Clave>>::libera(void)' que se está compilando
+          with
+          [
+              Clave=int
+          ]
+  capitulos repetidos final.vcxproj -> C:\Users\crist\source\repos\capitulos repetidos final\Debug\capitulos repetidos final.exe

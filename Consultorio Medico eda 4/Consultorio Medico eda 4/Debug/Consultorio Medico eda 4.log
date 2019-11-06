@@ -1,0 +1,63 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\source.cpp(155): warning C4101: 'e': variable local sin referencia
+c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\hashmap_eda.h(222): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\hashmap_eda.h(220): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<std::string,map<fecha,std::string,std::less<Clave>>,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>::amplia(void)'
+          with
+          [
+              Clave=fecha
+          ]
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\hashmap_eda.h(137): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<std::string,map<fecha,std::string,std::less<Clave>>,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>::amplia(void)' que se está compilando
+          with
+          [
+              Clave=fecha
+          ]
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\source.cpp(103): note: vea la referencia a la creación de instancias de plantilla clase de 'unordered_map<std::string,map<fecha,std::string,std::less<Clave>>,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>' que se está compilando
+          with
+          [
+              Clave=fecha
+          ]
+c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\hashmap_eda.h(180): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\hashmap_eda.h(179): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<std::string,map<fecha,std::string,std::less<Clave>>,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>::libera(void)'
+          with
+          [
+              Clave=fecha
+          ]
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\hashmap_eda.h(86): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<std::string,map<fecha,std::string,std::less<Clave>>,std::hash<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::equal_to<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>::libera(void)' que se está compilando
+          with
+          [
+              Clave=fecha
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstddef(141): error C2678: '<' binario: no se encontró un operador que adopte un operando en la parte izquierda de tipo 'const _Ty' (o bien no existe una conversión aceptable)
+          with
+          [
+              _Ty=fecha
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\system_error(319): note: puede ser 'bool std::operator <(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\system_error(312): note: o       'bool std::operator <(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstddef(141): note: al hacer coincidir la lista de argumentos '(const _Ty, const _Ty)'
+          with
+          [
+              _Ty=fecha
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xstddef(140): note: durante la compilación de la función miembro de plantilla clase de 'bool std::less<Clave>::operator ()(const _Ty &,const _Ty &) const'
+          with
+          [
+              Clave=fecha,
+              _Ty=fecha
+          ]
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\treemap_eda.h(270): note: vea la referencia a la creación de instancias de plantilla de función 'bool std::less<Clave>::operator ()(const _Ty &,const _Ty &) const' que se está compilando
+          with
+          [
+              Clave=fecha,
+              _Ty=fecha
+          ]
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\treemap_eda.h(57): note: vea la referencia a la creación de instancias de plantilla clase de 'std::less<Clave>' que se está compilando
+          with
+          [
+              Clave=fecha
+          ]
+  c:\users\crist\source\repos\consultorio medico eda 4\consultorio medico eda 4\source.cpp(104): note: vea la referencia a la creación de instancias de plantilla clase de 'map<fecha,std::string,std::less<Clave>>' que se está compilando
+          with
+          [
+              Clave=fecha
+          ]

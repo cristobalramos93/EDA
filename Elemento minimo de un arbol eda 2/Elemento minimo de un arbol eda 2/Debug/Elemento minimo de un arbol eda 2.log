@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xutility(1108): error C2064: el término no se evalúa como una función con 2 argumentos
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xutility(1107): note: vea la referencia a la creación de instancias de plantilla de función 'bool std::_Debug_lt_pred<_Pr&,const _Ty&,const _Ty&>(int&,_Ty1,_Ty2) noexcept(<expr>)' que se está compilando
+          with
+          [
+              _Pr=int,
+              _Ty=int,
+              _Ty1=const int &,
+              _Ty2=const int &
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\algorithm(5407): note: vea la referencia a la creación de instancias de plantilla de función 'const _Ty &std::min<int,T>(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)' que se está compilando
+          with
+          [
+              _Ty=int,
+              T=int,
+              _Pr=int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xutility(1108): error C2056: expresión no válida

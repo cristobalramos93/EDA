@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\aguaslimpias\aguaslimpias\source.cpp(8): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tRio' cuando no hay ninguna variable declarada
+c:\users\crist\source\repos\aguaslimpias\aguaslimpias\source.cpp(69): warning C4715: 'resuelve': no todas las rutas de acceso de control devuelven un valor
+  AguasLimpias.vcxproj -> C:\Users\crist\source\repos\AguasLimpias\Debug\AguasLimpias.exe

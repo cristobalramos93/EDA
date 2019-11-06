@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(76): error C2065: 'istream': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(76): error C2065: 'in': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(76): error C2448: 'lee_arbol': el inicializador de estilo de función parece ser una definición de función
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(103): error C2065: 'cin': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(104): error C2065: 'cout': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(104): error C2065: 'cin': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(104): error C2660: 'numero_singulares': la función no acepta 2 argumentos
+  c:\users\crist\source\repos\eda martins\eda martins\source.cpp(69): note: vea la declaración de 'numero_singulares'
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(105): error C2065: 'string': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(105): error C2146: error de sintaxis: falta ';' delante del identificador 'resto_linea'
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(105): error C2065: 'resto_linea': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(106): error C2065: 'cin': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(106): error C2065: 'resto_linea': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(106): error C3861: 'getline': no se encontró el identificador
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(107): error C2065: 'cin': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(107): error C2065: 'cout': identificador no declarado
+c:\users\crist\source\repos\eda martins\eda martins\source.cpp(107): error C2065: 'endl': identificador no declarado

@@ -1,0 +1,30 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\source.cpp(93): warning C4091: 'typedef ': se ha omitido a la izquierda de 'libreria::tLibros' cuando no hay ninguna variable declarada
+c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\hashmap_eda.h(222): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\hashmap_eda.h(220): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<std::string,libreria::tLibros,std::hash<Clave>,std::equal_to<Clave>>::amplia(void)'
+          with
+          [
+              Clave=std::string
+          ]
+  c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\hashmap_eda.h(137): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<std::string,libreria::tLibros,std::hash<Clave>,std::equal_to<Clave>>::amplia(void)' que se está compilando
+          with
+          [
+              Clave=std::string
+          ]
+  c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\source.cpp(95): note: vea la referencia a la creación de instancias de plantilla clase de 'unordered_map<std::string,libreria::tLibros,std::hash<Clave>,std::equal_to<Clave>>' que se está compilando
+          with
+          [
+              Clave=std::string
+          ]
+c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\hashmap_eda.h(180): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\hashmap_eda.h(179): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<std::string,libreria::tLibros,std::hash<Clave>,std::equal_to<Clave>>::libera(void)'
+          with
+          [
+              Clave=std::string
+          ]
+  c:\users\crist\source\repos\venta de libros por internet eda 4\venta de libros por internet eda 4\hashmap_eda.h(86): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<std::string,libreria::tLibros,std::hash<Clave>,std::equal_to<Clave>>::libera(void)' que se está compilando
+          with
+          [
+              Clave=std::string
+          ]
+  Venta de libros por internet eda 4.vcxproj -> C:\Users\crist\source\repos\Venta de libros por internet eda 4\Debug\Venta de libros por internet eda 4.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\usuario01\source\repos\la practica de esteganografia\la practica de esteganografia\source.cpp(8): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Nodo' cuando no hay ninguna variable declarada
+  La practica de esteganografia.vcxproj -> C:\Users\Usuario01\source\repos\La practica de esteganografia\Debug\La practica de esteganografia.exe

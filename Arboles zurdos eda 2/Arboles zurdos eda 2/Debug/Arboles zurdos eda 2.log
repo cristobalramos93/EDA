@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\arboles zurdos eda 2\arboles zurdos eda 2\source.cpp(43): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tZurdo' cuando no hay ninguna variable declarada
+  Arboles zurdos eda 2.vcxproj -> C:\Users\crist\source\repos\Arboles zurdos eda 2\Debug\Arboles zurdos eda 2.exe

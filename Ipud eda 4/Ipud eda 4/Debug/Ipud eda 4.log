@@ -1,0 +1,31 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\ipud eda 4\ipud eda 4\source.cpp(86): warning C4091: 'typedef ': se ha omitido a la izquierda de 'ipud::tCancion' cuando no hay ninguna variable declarada
+c:\users\crist\source\repos\ipud eda 4\ipud eda 4\source.cpp(92): warning C4091: 'typedef ': se ha omitido a la izquierda de 'ipud::tCa' cuando no hay ninguna variable declarada
+c:\users\crist\source\repos\ipud eda 4\ipud eda 4\hashmap_eda.h(222): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\ipud eda 4\ipud eda 4\hashmap_eda.h(220): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<std::string,ipud::tCancion,std::hash<Clave>,std::equal_to<Clave>>::amplia(void)'
+          with
+          [
+              Clave=std::string
+          ]
+  c:\users\crist\source\repos\ipud eda 4\ipud eda 4\hashmap_eda.h(137): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<std::string,ipud::tCancion,std::hash<Clave>,std::equal_to<Clave>>::amplia(void)' que se está compilando
+          with
+          [
+              Clave=std::string
+          ]
+  c:\users\crist\source\repos\ipud eda 4\ipud eda 4\source.cpp(94): note: vea la referencia a la creación de instancias de plantilla clase de 'unordered_map<std::string,ipud::tCancion,std::hash<Clave>,std::equal_to<Clave>>' que se está compilando
+          with
+          [
+              Clave=std::string
+          ]
+c:\users\crist\source\repos\ipud eda 4\ipud eda 4\hashmap_eda.h(180): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\crist\source\repos\ipud eda 4\ipud eda 4\hashmap_eda.h(179): note: durante la compilación de la función miembro de plantilla clase de 'void unordered_map<std::string,ipud::tCancion,std::hash<Clave>,std::equal_to<Clave>>::libera(void)'
+          with
+          [
+              Clave=std::string
+          ]
+  c:\users\crist\source\repos\ipud eda 4\ipud eda 4\hashmap_eda.h(86): note: vea la referencia a la creación de instancias de plantilla de función 'void unordered_map<std::string,ipud::tCancion,std::hash<Clave>,std::equal_to<Clave>>::libera(void)' que se está compilando
+          with
+          [
+              Clave=std::string
+          ]
+  Ipud eda 4.vcxproj -> C:\Users\crist\source\repos\Ipud eda 4\Debug\Ipud eda 4.exe

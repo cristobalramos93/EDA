@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\crist\source\repos\m2\m2\source.cpp(8): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tNumero' cuando no hay ninguna variable declarada
+  m2.vcxproj -> C:\Users\crist\source\repos\m2\Debug\m2.exe
